@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent AI Orchestration Platform
+# 🤖 Ai coding agent
 
 An advanced AI-powered backend system that uses a multi-agent architecture to process user queries intelligently using LLMs.
 The system routes tasks to specialized agents (Coder, Reviewer, Researcher) and improves outputs through a self-healing feedback loop.
@@ -54,7 +54,7 @@ This project uses **uv** for dependency and environment management.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/jegan-R1617/AI_coding_agent
-cd multi-agent-orchestration-platform
+cd AI_coding_agent
 
 2. Install dependencies
 uv sync
