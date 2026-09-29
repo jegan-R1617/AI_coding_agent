@@ -53,7 +53,7 @@ This project uses **uv** for dependency and environment management.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/aakashkarunanithi/multi-agent-orchestration-platform
+git clone https://github.com/jegan-R1617/AI_coding_agent
 cd multi-agent-orchestration-platform
 
 2. Install dependencies
